@@ -3,6 +3,10 @@
     top: 75px;
 }
 
+.con-container {
+    gap: 50px;
+}
+
 iframe {
     position: relative;
     left: 10px;
