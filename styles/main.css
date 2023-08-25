@@ -4,6 +4,9 @@
 }
 
 @media only screen and (min-width : 1200px) {
+    .navbar-collapse {
+        justify-content: center;
+    }
     .carousel-caption
     {
       top: 55%;
