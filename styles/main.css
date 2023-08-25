@@ -14,4 +14,7 @@
     .navbar-nav > li {
         text-align: center;
     }
+    .carousel-inner {
+        height: auto;
+    }
 }
