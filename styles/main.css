@@ -10,8 +10,8 @@
     }
 }
 
-@media (max-width: 576px) {
-    #navbarNav {
+@media (max-width: 768px) {
+    .navbar {
         text-align: center;
     }
 }
