@@ -8,8 +8,9 @@
     position: absolute;
     bottom: 25px;
     left: 25px;
+    z-index: 1;
 }
 .txt > h1 {
     position: relative;
-    
+    width: fit-content;
 }
