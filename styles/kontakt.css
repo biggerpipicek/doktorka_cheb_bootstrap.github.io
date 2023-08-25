@@ -11,3 +11,9 @@ iframe {
     position: relative;
     left: 2.5rem;
 }
+
+@media (max-width: 576px) {
+    .con-container {
+        grid-template-columns: auto;
+    }
+}
