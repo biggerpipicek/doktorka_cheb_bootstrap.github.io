@@ -12,6 +12,6 @@
 
 @media (max-width: 576px) {
     #navbarNav {
-        justify-content: center;
+        text-align: center;
     }
 }
