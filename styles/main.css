@@ -10,20 +10,28 @@
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 550px) {
     .navbar-nav > li {
         text-align: center;
     }
     .carousel-inner {
         height: 300px;
     }
+    .container {
+        position: relative;
+        top: -30px;
+    }
 }
 
-@media (min-width: 600px) and (max-width: 768px) {
+@media (min-width: 551px) and (max-width: 768px) {
     .navbar-nav > li {
         text-align: center;
     }
     .carousel-inner {
         height: 500px;
+    }
+    .container {
+        position: relative;
+        top: 0px;
     }
 }
